@@ -4,7 +4,8 @@ Welcome to my **JavaScript Full Course** repository! This is a complete collecti
 
 ## 📁 Repository Structure
 
-JavaScript-full-course/ │
+JavaScript-full-course/
+│
 ├── 01_Basics/ 
 ├── 02_Functions/
 ├── 03_Objects/
