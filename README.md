@@ -4,7 +4,18 @@ Welcome to my **JavaScript Full Course** repository! This is a complete collecti
 
 ## 📁 Repository Structure
 
-JavaScript-full-course/ │ ├── 01_Basics/ ├── 02_Functions/ ├── 03_Objects/ ├── 04_DOM_Manipulation/ ├── 05_Events/ ├── 06_Projects/ │ ├── Calculator/ │ ├── TodoApp/ │ └── DigitalClock/ ├── README.md └── ...
+JavaScript-full-course/ │
+├── 01_Basics/ 
+├── 02_Functions/
+├── 03_Objects/
+├── 04_DOM_Manipulation/
+├── 05_Events/ 
+├── 06_Projects/ │ 
+├── Calculator/ │ 
+├── TodoApp/ 
+│ └── DigitalClock/ 
+├── README.md 
+└── ...
 
 
 
