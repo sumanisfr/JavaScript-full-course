@@ -25,7 +25,17 @@ Welcome to my **JavaScript Full Course** repository! This is a complete collecti
 ---
 
 ## 📁 Folder Structure
-JavaScript-full-course/ │ ├── 01_Basics/ ├── 02_Functions/ ├── 03_Objects/ ├── 04_DOM_Manipulation/ ├── 05_Events/ ├── 06_Projects/ │ ├── Calculator/ │ ├── TodoApp/ │ └── DigitalClock/ ├── README.md └── ...
+JavaScript-full-course/ 
+│ ├── 01_Basics/ 
+├── 02_Functions/ 
+├── 03_Objects/ 
+├── 04_DOM_Manipulation/ 
+├── 05_Events/ 
+├── 06_Projects/ 
+│ ├── Calculator/ 
+│ ├── TodoApp/ 
+│ └── DigitalClock/ 
+├── README.md └── ...
 ---
 
 ## 🧠 What You Will Learn
@@ -65,12 +75,14 @@ git clone https://github.com/sumanisfr/JavaScript-full-course.git
 cd JavaScript-full-course
 # Open any .html file in your browser to run the project
 
+```
 🙌 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to ⭐ the repo if it helped you.
 
 
-📩 Connect with Me
+
+ ```📩 Connect with Me
 LinkedIn: Suman Kumar Ghosh
 
 GitHub: @sumanisfr
