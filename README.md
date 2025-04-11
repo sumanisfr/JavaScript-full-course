@@ -72,7 +72,7 @@ LinkedIn: Suman Kumar Ghosh
 
 GitHub: @sumanisfr
 
-Email: sumanisfr@gmail.com
+Email: sumankumarghosh94@gmail.com
 
 Star ⭐ this repo if you find it helpful!
 
