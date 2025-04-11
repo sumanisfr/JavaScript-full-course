@@ -20,7 +20,7 @@ Welcome to my **JavaScript Full Course** repository! This is a complete collecti
 ## 📸 Preview
 
 ![Project Preview](https://via.placeholder.com/800x400?text=JavaScript+Project+Preview)  
-*Add screenshots of your projects here to showcase your work!*
+
 
 ---
 
@@ -75,14 +75,15 @@ git clone https://github.com/sumanisfr/JavaScript-full-course.git
 cd JavaScript-full-course
 # Open any .html file in your browser to run the project
 
-```
-🙌 Contributing
+---
+
+##🙌 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to ⭐ the repo if it helped you.
 
+---
 
-
- ```📩 Connect with Me
+##📩 Connect with Me
 LinkedIn: Suman Kumar Ghosh
 
 GitHub: @sumanisfr
